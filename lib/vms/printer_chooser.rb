@@ -3,12 +3,9 @@ module VMS
   #
   class PrinterChooser
 
-    def self.choose
+    def self.choose(ip)
 
-      return nil if request.nil?
-      return nil if request.remote_ip.nil?
-
-      return request.remote_ip
+      return 'OX'
 
     end
 
