@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'vms'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2017-08-31'
   s.summary     = "VMS Ruby Library"
   s.description = "VMS Ruby Library"
